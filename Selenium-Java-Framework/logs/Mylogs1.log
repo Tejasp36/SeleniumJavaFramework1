@@ -1,0 +1,4 @@
+2022-06-08T11:53:33.608+0530 INFO This is information message
+2022-06-08T11:53:33.610+0530 ERROR This is error message
+2022-06-08T11:53:33.610+0530 WARN This is warning message
+2022-06-08T11:53:33.611+0530 FATAL This is fatal message
